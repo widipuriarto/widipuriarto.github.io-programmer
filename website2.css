@@ -86,7 +86,7 @@ body {
 }
 .image {
     height: 350px;
-    background-image: url(programmer.jpg);
+    background-image: url(img/programmer.jpg);
     background-size: cover;
     background-position: 0 -160px;
     border-bottom: 8px solid #333;
